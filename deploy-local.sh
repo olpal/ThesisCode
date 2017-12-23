@@ -1,0 +1,9 @@
+scp *.py nvidia@192.168.1.143:/scratch/aolpin/thesis/code
+scp run-new.sh nvidia@192.168.1.143:/scratch/aolpin/thesis/code
+scp run-nvidia.sh nvidia@192.168.1.143:/scratch/aolpin/thesis/code
+scp run-image.sh nvidia@192.168.1.143:/scratch/aolpin/thesis/code
+scp dataprocess.sh nvidia@192.168.1.143:/scratch/aolpin/thesis/code
+scp run-exec.sh nvidia@192.168.1.143:/scratch/aolpin/thesis/code
+scp randoms.log nvidia@192.168.1.143:/scratch/aolpin/thesis/code
+scp randomsip.log nvidia@192.168.1.143:/scratch/aolpin/thesis/code
+scp randomsf.log nvidia@192.168.1.143:/scratch/aolpin/thesis/code
